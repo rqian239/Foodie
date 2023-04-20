@@ -40,6 +40,8 @@ Pranav Venu and Paul Jablonowski
     ```
  3. Open a browser and navigate to `http://localhost:4200/`
 
+## Running Tests
+
 ### Running E2E Tests
  1. Complete all the steps in the "Running the Application" section
  2. Open another terminal window and navigate into the Angular Frontend folder with `cd '.\Angular Frontend\'`. Run the command `'npx cypress open'` to open the Cypress test runner.
