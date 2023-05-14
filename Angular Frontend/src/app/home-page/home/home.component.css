@@ -11,6 +11,10 @@
 
 /* ----------------- RECIPE CARD STYLES ----------------- */
 
+.cardSection {
+    margin-bottom: 2vw;
+}
+
 .recipeCardWrapper {
     display: flex;
     flex-direction: column;
