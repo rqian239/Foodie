@@ -15,7 +15,7 @@ Pranav Venu and Paul Jablonowski
     ```
 
 ### Install dependencies
- 1. Install latest nodeJS, npm versions
+ 1. Install latest nodeJS, npm versions (I am using node v16.17.0 and npm v8.15.0)
    
  2. Install Angular CLI using the following command: 
     ```console
