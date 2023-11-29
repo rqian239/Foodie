@@ -23,7 +23,7 @@ Pranav Venu and Paul Jablonowski
     ```
     * Note the project was generated with Angular version 15.1.2
 
- 3. Install go, tutorial found in https://go.dev
+ 3. Install go, tutorial found in https://go.dev (My version is go1.19.5 windows/amd64)
 
  4. Navigate into the Angular Frontend folder in the terminal with cd '.\Angular Frontend\' and run ```npm install``` to install dependencies
 
